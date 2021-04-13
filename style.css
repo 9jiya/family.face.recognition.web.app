@@ -1,0 +1,11 @@
+.g{
+    width: 50%;
+    box-shadow: 5px 5px 5px black;
+    background-color: purple;
+}
+.img1{
+    width: 200px;
+}
+body{
+    background-color: dodgerblue;
+}
